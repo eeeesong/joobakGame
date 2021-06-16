@@ -8,4 +8,4 @@
 - 제목, 설명 변경
 - 썸네일 사진 변경
 
-![IMG_2020](https://user-images.githubusercontent.com/72188416/109498073-4f7b4200-7ad6-11eb-8d8c-b62661e91ef4.PNG)
+<img src=https://user-images.githubusercontent.com/72188416/109498073-4f7b4200-7ad6-11eb-8d8c-b62661e91ef4.PNG width=450>
